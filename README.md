@@ -10,3 +10,9 @@ D:/Program/opensmile：opensmile解压位置
 F:/work/internship/audio_data: 音频数据放置位置
 
 [音频数据下载地址](http://dawn.shareurl.facethink.com/ai-lab-training-camp/%E8%AF%AD%E9%9F%B3%E8%AE%AD%E7%BB%83%E8%90%A5%E6%95%B0%E6%8D%AE.rar?AWSAccessKeyId=3QO8TW7G59ES77LY8BPH&Expires=1535681635&Signature=c19Aj0B%2F2DmMUhG4rH6qlAR35uQ%3D)
+
+update:   
+音频数据下载：    
+链接：https://pan.baidu.com/s/1dU5Kbf5dZ8ayKz-qFDpMjA     
+
+提取码：2bq8 
